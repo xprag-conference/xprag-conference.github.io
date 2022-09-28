@@ -1,11 +1,16 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: XPrag
-locale: "en-US"
-show_downloads: false
+title                    : XPrag
+locale                   : "en-US"
+url                      : https://xprag-conference.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "xprag-conference/xprag-conference.github.io"
+show_downloads           : false
 
 author:
   avatar           : "xprag.png"  
   email            : "xprag.conference@gmail.com"
+  bio              : "The official website of the XPrag conference"
+  github           : "xprag-conference"
 
 plugins:
   - jekyll-remote-theme
@@ -75,3 +80,37 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        
