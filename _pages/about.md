@@ -1,3 +1,10 @@
+The global experimental pragmatics community consists of many research groups and federally funded networks. Every two years, we come together at the **XPrag** conference. On this website you'll find information about past and future meetings, as well as links to some of the official XPrag networks.
+
+
+# Future XPRAG conferences
+
+- XPrag 2023 in Paris, Sep 20-22, organized by Ira Noveck
+
 # Previous XPRAG conferences
 
 - [XPrag 2022](https://sites.google.com/iusspavia.it/xprag2022/xprag-2022) in Pavia, organized by Valentina Bambini and Filippo Domaneschi
