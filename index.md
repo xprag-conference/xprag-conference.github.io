@@ -4,9 +4,8 @@ BRIEF DESCRIPTION OF XPRAG
 
 **Previous XPRAG conferences:**
 
-[XPrag 2022](https://sites.google.com/iusspavia.it/xprag2022/xprag-2022) in Pavia, organized by Valentina Bambini and Filippo Domaneschi
-
-[XPrag 2019](https://www.xprag2019.ppls.ed.ac.uk/) in Edinburgh, organized by Chris Cummins and Hannah Rohde
+- [XPrag 2022](https://sites.google.com/iusspavia.it/xprag2022/xprag-2022) in Pavia, organized by Valentina Bambini and Filippo Domaneschi
+- [XPrag 2019](https://www.xprag2019.ppls.ed.ac.uk/) in Edinburgh, organized by Chris Cummins and Hannah Rohde
 
 [XPrag 2017](https://xprag2017.uni-koeln.de/) in Köln, organized by Petra Schumacher
 
