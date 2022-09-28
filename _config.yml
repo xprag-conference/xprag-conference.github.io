@@ -1,16 +1,22 @@
-remote_theme: pages-themes/minimal@v0.2.0
-title                    : XPrag
+remote_theme             : pages-themes/minimal@v0.2.0
+
+title                    : ""
+name                     : "XPrag"
 locale                   : "en-US"
 url                      : https://xprag-conference.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xprag-conference/xprag-conference.github.io"
 show_downloads           : false
+breadcrumbs              : false # true, false (default)  
+read_more                : "disabled"
 
 author:
+  name             : "XPrag"
   avatar           : "xprag.png"  
   email            : "xprag.conference@gmail.com"
   bio              : "The official website of the XPrag conference"
   github           : "xprag-conference"
+  
 
 plugins:
   - jekyll-remote-theme
