@@ -1,8 +1,4 @@
-# XPrag -- the global experimental pragmatics network
-
-BRIEF DESCRIPTION OF XPRAG
-
-## Previous XPRAG conferences
+# Previous XPRAG conferences
 
 - [XPrag 2022](https://sites.google.com/iusspavia.it/xprag2022/xprag-2022) in Pavia, organized by Valentina Bambini and Filippo Domaneschi
 - [XPrag 2019](https://www.xprag2019.ppls.ed.ac.uk/) in Edinburgh, organized by Chris Cummins and Hannah Rohde
@@ -14,7 +10,7 @@ BRIEF DESCRIPTION OF XPRAG
 - XPrag 2007 in Berlin, organized by Uli Sauerland
 - XPrag 2005 in Cambridge, organized by Richard Breheny and Napoleon Katsos
 
-## XPrag networks
+# XPrag networks
 
 - [XPrag.it](https://www.xpragit.com/) -- Italian XPrag network 
 - [XPrag.de](https://www.xprag.de/) -- German XPrag priority program funded by the DFG (2014-2019)
