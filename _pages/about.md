@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 The global experimental pragmatics community consists of many research groups and federally funded networks. Every two years, we come together at the **XPrag** conference. On this website you'll find information about past and future meetings, as well as links to some of the official XPrag networks.
 
 
