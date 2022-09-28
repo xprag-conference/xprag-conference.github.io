@@ -4,7 +4,7 @@ locale: "en-US"
 show_downloads: false
 
 author:
-  avatar           : "profile.jpg"  
+  avatar           : "xprag.png"  
   email            : "xprag.conference@gmail.com"
 
 plugins:
